@@ -22,12 +22,12 @@ async def scrape_mudita_laptops_details():
 
                 #Extracting laptop info from table
                 table = await page.query_selector("table:nth-of-type(1)")
-                rows = await table.query_selector_all("tr")
+               
                 if table is None:
                     print("Table not found")
                     continue
                 else:
-                    
+                 rows = await table.query_selector_all("tr")  
                  for row in rows:
                      cells = await row.query_selector_all("td")
                      col_list=['Brand','Series']
@@ -40,6 +40,8 @@ async def scrape_mudita_laptops_details():
                              if key == col:
                                  Info[key] = value
                                  break
+                
+               
                          
 
                 # Extracting laptop specs from page title of h1 inside span class name base
