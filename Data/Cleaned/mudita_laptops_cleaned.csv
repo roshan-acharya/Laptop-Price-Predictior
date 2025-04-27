@@ -1,32 +1,32 @@
 Brand,Series,Price,Ram,Storage,Graphics,Processor
 LENOVO,IdeaPad V15-IGL,32999.0,4.0,256.0, Intel UHD ,Intel Core i7
 Dell,Wyse,34999.0,8.0,256.0, Intel UHD ,Intel Celeron
-Acer,Aspire Series,34999.0,8.0,256.0,None,Intel Celeron
+Acer,Aspire Series,34999.0,8.0,256.0,No,Intel Celeron
 LENOVO,IdeaPad V15-IGL,36999.0,8.0,256.0, Intel UHD ,Intel Core i7
 Acer,Aspire Series,45999.0,8.0,256.0, Intel ,Intel Core i3
 Acer,Aspire Series,48999.0,8.0,512.0, AMD Radeon ,AMD Ryzen 3
 Lenovo,IdeaPad Series,48999.0,8.0,512.0, Intel UHD ,Intel Core i3
-Acer,Aspire Series,49999.0,8.0,256.0,None,Intel Core i3
-Lenovo,IdeaPad Slim 3 Series,50000.0,8.0,256.0,None,AMD Ryzen 3
+Acer,Aspire Series,49999.0,8.0,256.0,No,Intel Core i3
+Lenovo,IdeaPad Slim 3 Series,50000.0,8.0,256.0,No,AMD Ryzen 3
 Hewlett-Packard (HP),Notebook,50999.0,8.0,256.0, Intel Iris Xe ,Intel Core i3
 Dell,Vostro Series,50999.0,16.0,512.0, Intel UHD ,Intel Core i3
 Acer,Aspire Series,50999.0,16.0,512.0, Intel UHD ,Intel Core i3
 Acer,Aspire Series,52000.0,8.0,512.0, Intel UHD ,Intel Core i3
-HP,Notebook,54999.0,8.0,512.0,None,Intel Core i7
+HP,Notebook,54999.0,8.0,512.0,No,Intel Core i7
 Lenovo,IdeaPad Series (14IAU8),55000.0,8.0,512.0, Intel UHD ,Intel Core i3
 Lenovo,V Series,56999.0,8.0,512.0, AMD Radeon 610M ,AMD Ryzen 5
-Lenovo,IdeaPad Slim 3 Series,58499.0,8.0,512.0,None,AMD Ryzen 5
+Lenovo,IdeaPad Slim 3 Series,58499.0,8.0,512.0,No,AMD Ryzen 5
 Lenovo,IdeaPad Series,58999.0,8.0,512.0, AMD Radeon 610M ,AMD Ryzen 5
 Acer,Extensa Series,59000.0,8.0,512.0, AMD Radeon ,AMD Ryzen 5
 Dell,Inspiron Series,60999.0,8.0,512.0, AMD Radeon 610M ,AMD Ryzen 5
-HP,Notebook Series,60999.0,8.0,512.0,None,AMD Ryzen 5
+HP,Notebook Series,60999.0,8.0,512.0,No,AMD Ryzen 5
 Acer,Aspire Series,63499.0,16.0,512.0, AMD Radeon ,AMD Ryzen 5
 Acer,Aspire Series,63799.0,16.0,512.0, AMD Radeon ,AMD Ryzen 7
 Acer,Aspire Series,64499.0,16.0,512.0, Intel Iris Xe ,Intel Core i5
 Acer,Aspire Series,65499.0,16.0,512.0, AMD Radeon ,AMD Ryzen 5
 Acer,Aspire Series,67999.0,16.0,512.0, AMD Radeon ,AMD Ryzen 5
 LENOVO,V15 G3,67999.0,8.0,512.0, Integrated Intel UHD ,Intel Core i5
-Lenovo,IdeaPad Series,67999.0,16.0,512.0,None,Intel Core i5
+Lenovo,IdeaPad Series,67999.0,16.0,512.0,No,Intel Core i5
 Lenovo,IdeaPad Series,67999.0,16.0,512.0, Intel ,Intel Core i5
 Acer,Aspire Series,68499.0,16.0,512.0, AMD Radeon ,AMD Ryzen 7
 Lenovo,IdeaPad Series,68999.0,16.0,512.0, Intel UHD ,Intel Core i5
@@ -44,39 +44,39 @@ ASUS,VivoBook,75999.0,8.0,512.0, AMD Radeon ,AMD Ryzen 5
 LENOVO,ThinkBook Series,75999.0,8.0,512.0, Integrated Intel UHD ,Intel Core i5
 Acer,Aspire Series,76999.0,16.0,512.0, AMD Radeon ,AMD Ryzen 7
 Lenovo,Ideapad Series,77999.0,8.0,512.0, Intel ,Intel Core i7
-Lenovo,IdeaPad Series,79999.0,16.0,512.0,None,Intel Core i5
+Lenovo,IdeaPad Series,79999.0,16.0,512.0,No,Intel Core i5
 ACER,SWIFT ,79999.0,8.0,512.0, AMD Radeon Vega 8 ,AMD Ryzen 7
 Acer,Aspire Series,79999.0,8.0,512.0, Intel UHD ,Intel Core i7
 Acer,Swift Series,79999.0,16.0,512.0, AMD Radeon ,AMD Ryzen 5
 HP,Business Series,80000.0,16.0,512.0, NVIDIA GeForce MX550 2GB ,Intel Core i5
 Hewlett-Packard (HP),Pavilion,80999.0,8.0,512.0, Intel Iris Xe ,Intel Core i5
 ASUS,VivoBook Go Series,81500.0,8.0,512.0, AMD Radeon ,AMD Ryzen 5
-ASUS,VIVOBOOK,82000.0,16.0,512.0,None,i5
-HP,Pavilion Plus Series,82499.0,16.0,512.0,None,AMD Ryzen 5
+ASUS,VIVOBOOK,82000.0,16.0,512.0,No,i5
+HP,Pavilion Plus Series,82499.0,16.0,512.0,No,AMD Ryzen 5
 Lenovo,ThinkBook Series,83000.0,8.0,512.0, GeForce MX550 2GB Dedicated ,Intel Core i5
 Acer,Aspire Series,83999.0,16.0,512.0, NVIDIA GeForce RTX 2050 4GB ,Intel Core i5
-HP,Pavilion Series,84999.0,16.0,512.0,None,AMD Ryzen 7
+HP,Pavilion Series,84999.0,16.0,512.0,No,AMD Ryzen 7
 Lenovo,IdeaPad Series,84999.0,16.0,512.0, AMD Radeon ,AMD Ryzen 7
 Hewlett-Packard (HP),Notebook,85000.0,8.0,512.0, Intel Iris Xe ,Intel core i5
 Acer,Aspire Lite Series,85000.0,16.0,512.0, Intel UHD ,Intel Core i5
-Hewlett-Packard (HP),Envy,85000.0,8.0,512.0,None,Intel Core i5
+Hewlett-Packard (HP),Envy,85000.0,8.0,512.0,No,Intel Core i5
 ASUS,VivoBook Series,85999.0,16.0,512.0, Intel UHD ,Intel Core i5
-Lenovo,IdeaPad Series,86999.0,16.0,512.0,None,Intel Core i7
+Lenovo,IdeaPad Series,86999.0,16.0,512.0,No,Intel Core i7
 HP,Pavilion Series,87000.0,8.0,512.0, Intel Iris Xe ,i5
 Lenovo,IdeaPad Series,87999.0,16.0,512.0, AMD Radeon ,AMD Ryzen 7
-Acer,Aspire Series,88999.0,16.0,512.0,None,Intel Core i7
+Acer,Aspire Series,88999.0,16.0,512.0,No,Intel Core i7
 ASUS,VivoBook Series,89000.0,8.0,512.0, Intel UHD ,Intel Core i5
-Acer,Aspire Series,89499.0,8.0,512.0,None,Intel Core i7
+Acer,Aspire Series,89499.0,8.0,512.0,No,Intel Core i7
 HP,Victus Gaming Series,89499.0,8.0,512.0, AMD Radeon RX 6550M 4GB ,AMD Ryzen 5
 ACER,Nitro V 15 Series,89999.0,16.0,512.0, NVIDIA RTX 2050 4GB ,Intel Core i5
-Hewlett-Packard (HP),Envy,89999.0,8.0,512.0,None,Intel Core i7
+Hewlett-Packard (HP),Envy,89999.0,8.0,512.0,No,Intel Core i7
 ASUS,VivoBook,90000.0,8.0,512.0, Intel UHD ,Intel Core i5
 Lenovo,LOQ 15IRH8 Series,90000.0,16.0,512.0, NVIDIA GeForce RTX 2050 4GB ,Intel Core i5
 Lenovo,LOQ Series,91999.0,12.0,512.0, NVIDIA GeForce RTX 3050 6GB ,AMD Ryzen 5
 Dell,Inspiron Series,91999.0,8.0,512.0, Intel ,Intel Core i7
-Lenovo,IdeaPad Series,91999.0,16.0,512.0,None,Intel Core i7
+Lenovo,IdeaPad Series,91999.0,16.0,512.0,No,Intel Core i7
 HP,Victus,92000.0,8.0,512.0, NVIDIA RTX 2050 ,AMD Ryzen 5
-Lenovo,Yoga Series,92999.0,8.0,512.0,None,AMD Ryzen 5
+Lenovo,Yoga Series,92999.0,8.0,512.0,No,AMD Ryzen 5
 Lenovo,LOQ Series,92999.0,8.0,512.0, RTX 2050 ,Intel Core i5
 ASUS,VivoBook,93000.0,8.0,512.0, AMD Radeon ,AMD Ryzen 7
 ASUS,VivoBook Series,93499.0,16.0,512.0, Intel Iris Xe ,Intel Core i5
@@ -85,13 +85,13 @@ Dell,Inspiron Series,94499.0,16.0,512.0, AMD Radeon ,AMD Ryzen 5
 Acer,Aspire Series,94999.0,16.0,512.0, NVIDIA GeForce RTX 2050 4GB ,Intel Core i5
 Dell,Gaming Series,94999.0,16.0,512.0, NVIDIA GeForce RTX 3050 4GB ,Intel Core i5
 HP,Pavilion Series,94999.0,16.0,512.0, Intel ,Intel Core i5
-HP,Pavilion Series,94999.0,16.0,512.0,None,AMD Ryzen 7
+HP,Pavilion Series,94999.0,16.0,512.0,No,AMD Ryzen 7
 Dell,Vostro Series,94999.0,8.0,512.0, Intel ,Intel Core i7
 Lenovo,ThinkBook Series,95000.0,8.0,512.0, Intel Iris Xe ,Intel Core i7
-HP,Envy Series,95000.0,16.0,512.0,None,AMD Ryzen 5
+HP,Envy Series,95000.0,16.0,512.0,No,AMD Ryzen 5
 DELL,INSPIRON,97000.0,8.0,256.0, Radeon ,Ryzen 5
 Lenovo,LOQ Series,97000.0,12.0,512.0, NVIDIA GeForce RTX 2050 ,Intel Core i5
-Apple,M4 Series,97499.0,16.0,256.0,None,Intel Core i7
+Apple,M4 Series,97499.0,16.0,256.0,No,Intel Core i7
 ACER,Nitro V 15,97999.0,16.0,512.0, NVIDIA RTX 3050 6GB ,AMD Ryzen 5
 MSI,Modern Series,98999.0,16.0,512.0, Intel Iris Xe ,Intel Core i7
 ASUS,VIVOBOOK,99999.0,16.0,512.0, lntel UHD ,Intel Core i7
@@ -103,7 +103,7 @@ Acer,Swift Series,101999.0,16.0,512.0, Intel Arc ,Intel Core i7
 Acer,Aspire Series,102999.0,16.0,512.0, NVIDIA GeForce RTX 3050 6GB ,Intel Core i5
 MSI,Modern 15,103000.0,8.0,512.0, Intel Iris Xe ,Intel Core i5
 ASUS,Zenbook UM3402YA,103000.0,8.0,512.0, AMD Radeon ,AMD Ryzen 5
-Apple,Macbook Air,103999.0,16.0,256.0,None,Intel Core i7
+Apple,Macbook Air,103999.0,16.0,256.0,No,Intel Core i7
 Lenovo,LOQ Gaming Series,104999.0,16.0,512.0, NVIDIA GeForce RTX 4050 6GB ,AMD Ryzen 5
 HP,EliteBook Series,104999.0,16.0,512.0, AMD Radeon ,AMD Ryzen 5
 ASUS,TUF Gaming Series,104999.0,16.0,512.0, NVIDIA GeForce RTX 3050 4GB ,AMD Ryzen 7
@@ -113,12 +113,12 @@ ASUS,TUF Series,106000.0,16.0,512.0, NVIDIA GeForce RTX 2050 4GB ,AMD Ryzen 5
 ACER,Nitro V 15,106999.0,16.0,512.0, NVIDIA RTX 3050 6GB ,Intel Core i5
 Acer,Swift Series,108499.0,16.0,512.0, Intel Arc ,Intel Core i7
 ASUS,TUF Series,109499.0,16.0,512.0, NVIDIA GeForce RTX 2050 4GB ,AMD Ryzen 7
-Acer,Aspire Series,109499.0,16.0,512.0,None,Intel Core i9
+Acer,Aspire Series,109499.0,16.0,512.0,No,Intel Core i9
 ACER,Nitro V 15,109999.0,16.0,512.0, NVIDIA RTX 4050 6GB ,Intel Core i5
 HP,Victus Gaming Series,110000.0,16.0,512.0, NVIDIA GeForce RTX 4050 6GB ,AMD Ryzen 5
 Acer,Swift Series,111999.0,16.0,512.0, Intel Arc ,Intel Core i7
 Hewlett-Packard (HP),Victus,112000.0,16.0,512.0, NVIDIA RTX 4050 ,Intel Core i5
-ASUS,VivoBook,112000.0,16.0,512.0,None,i7
+ASUS,VivoBook,112000.0,16.0,512.0,No,i7
 MSI,Cyborg Series,112000.0,16.0,512.0, NVIDIA GeForce RTX 2050 4GB ,i5
 ACER,Nitro V Series,112999.0,16.0,512.0, RTX 2050 4GB ,Intel Core i7
 Acer,Swift Series,112999.0,16.0,512.0, Intel Arc ,Intel Core i7
@@ -131,14 +131,14 @@ ASUS,VivoBook Series,115000.0,8.0,512.0, Intel UHD ,Intel Core i5
 ASUS,VivoBook Series,115000.0,16.0,512.0, Intel Iris Xe ,Intel Core i7
 Dell,Inspiron Series,115999.0,16.0,512.0, Intel ,Intel Core i7
 Lenovo,LOQ Series,117999.0,16.0,512.0, NVIDIA GeForce RTX 3050 6GB ,Intel Core i5
-ASUS,TUF Series,118000.0,16.0,512.0,None,i7
+ASUS,TUF Series,118000.0,16.0,512.0,No,i7
 Lenovo,LOQ Series,118000.0,16.0,512.0, NVIDIA RTX 3050 6GB ,Intel Core i5
 HP,Envy x360,119999.0,16.0,512.0, Integrated Intel Iris Xe ,Intel Core i7
 HP,Vicuts Series,120000.0,16.0,512.0, NVIDIA GeForce RTX 3050 4GB ,AMD Ryzen 7
 Acer,Swift Series,121499.0,16.0,512.0, RTX 3050 6GB ,Intel Core i7
-Lenovo,Yoga Series,121999.0,16.0,512.0,None,AMD Ryzen 7
+Lenovo,Yoga Series,121999.0,16.0,512.0,No,AMD Ryzen 7
 ACER,Nitro Series,122499.0,16.0,512.0, NVIDIA RTX 3050 6GB ,Intel Core i7
-Lenovo,IdeaPad 5,122999.0,16.0,512.0,None,AMD Ryzen 7
+Lenovo,IdeaPad 5,122999.0,16.0,512.0,No,AMD Ryzen 7
 Acer,Nitro V Series,123000.0,8.0,512.0, NVIDIA GeForce RTX 4050 6GB ,AMD Ryzen 5
 DELL,INSPIRON,124000.0,8.0,512.0, Intel UHD ,Intel Core i5
 HP,Envy x360,124999.0,16.0,512.0, AMD Radeon ,AMD Ryzen 7
@@ -147,7 +147,7 @@ Hewlett-Packard (HP),Victus,125000.0,16.0,512.0, NVIDIA RTX 3050Ti ,AMD Ryzen 7
 ASUS,Vivobook K3405V,126000.0,16.0,512.0, ,i7
 Acer,Nitro V 15 Series,126999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i5
 MSI,Modern 15,129000.0,16.0,512.0, Intel Iris Xe ,Intel Core i7
-Apple,M4 Series,129499.0,16.0,512.0,None,Intel Core i7
+Apple,M4 Series,129499.0,16.0,512.0,No,Intel Core i7
 Lenovo,LOQ Series,129999.0,16.0,512.0, NVIDIA GeForce RTX 3050 6GB ,Intel Core i7
 Acer,Nitro V Series,129999.0,16.0,512.0, NVIDIA GeForce RTX 3050 6GB ,AMD Ryzen 7
 Hewlett-Packard (HP),Envy,130000.0,8.0,512.0, Intel Iris Xe ,Intel Core i7
@@ -162,11 +162,11 @@ Acer,Nitro Series,139999.0,16.0,512.0, NVIDIA GeForce RTX 4050 6GB ,Intel Core i
 Lenovo,LOQ Series,139999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,AMD Ryzen 7
 Hewlett-Packard (HP),Omen,140000.0,16.0,512.0,NVIDIA RTX 3050Ti ,AMD Ryzen 7
 Acer,Nitro V 15 Series,141999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i7
-ASUS, TP3402-lZ26W (2-in-1),142999.0,16.0,512.0,None,Intel Core i7
+ASUS, TP3402-lZ26W (2-in-1),142999.0,16.0,512.0,No,Intel Core i7
 Acer,Nitro V 15,143999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,AMD Ryzen 7
 Dell,Latitude Series,144999.0,16.0,512.0, Intel Integrated ,Intel Core i7
 Hewlett-Packard (HP),Victus,145000.0,16.0,512.0, NVIDIA RTX 3050Ti ,Intel Core i7
-Apple,MacBook Air,146499.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook Air,146499.0,16.0,512.0,No,Intel Core i7
 Dell,Gaming Series,148999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,AMD Ryzen 7
 Dell,XPS Series,149999.0,16.0,512.0, Intel Iris Xe ,Intel Core i7
 ASUS,ZenBook Series,150999.0,16.0,512.0, ,AMD Ryzen 7
@@ -178,14 +178,14 @@ HP,EliteBook Series,154999.0,32.0,512.0, AMD Radeon ,AMD Ryzen 7
 Acer,Nitro V 15,154999.0,16.0,512.0, NVIDIA GeForce RTX 4050 6GB ,Intel Core i9
 Lenovo,LOQ Series,154999.0,24.0,512.0, NVIDIA GeForce RTX 4060 8GB ,AMD Ryzen 7
 Lenovo,Gaming Laptop Series,155000.0,16.0,512.0, RTX 4050 6GB GDDR6 ,AMD Ryzen 7
-Apple,MacBook Air M1 Chipset,155000.0,16.0,256.0,None,Intel Core i7
+Apple,MacBook Air M1 Chipset,155000.0,16.0,256.0,No,Intel Core i7
 LENOVO,ThinkPad L14,155000.0,16.0,512.0, Intel Iris Xe ,Intel Core i7
 Acer,Gaming Series,155000.0,16.0,512.0, NVIDIA GeForce RTX 3060 6GB GDDR6 ,Intel Core i7
 Acer,Swift Series,155999.0,16.0,512.0, Intel Arc ,Intel Core i7
 Acer,Nitro Series,156999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,AMD Ryzen 7
 Acer,Nitro Series,157000.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i9
 Acer,Nitro Series,157000.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,AMD Ryzen 7
-Apple,MacBook Air,158999.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook Air,158999.0,16.0,512.0,No,Intel Core i7
 MSI,KATANA,159999.0,16.0,512.0, NVIDIA RTX 4060 8GB ,Intel Core i7
 Lenovo,LOQ Series,159999.0,16.0,512.0, NVIDIA GeForce RTX 4070 8GB ,AMD Ryzen 7
 Lenovo,LOQ Series,159999.0,24.0,512.0, NVIDIA GeForce RTX 4050 6GB ,Intel Core i7
@@ -199,7 +199,7 @@ Acer,Predator Series,162000.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Cor
 Lenovo,LOQ Series,162999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i7
 ASUS,ZenBook Series,164999.0,16.0,512.0, ,Intel Core i7
 Lenovo,Slim 7 Series,164999.0,32.0,512.0, Intel Arc ,Intel Core i7
-Apple,M4 Series,164999.0,16.0,512.0,None,Intel Core i7
+Apple,M4 Series,164999.0,16.0,512.0,No,Intel Core i7
 MSI,GL,167000.0,16.0,512.0, NVIDIA RTX 3050 ,Intel Core i7
 ASUS,TUF Gaming A15,169999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,AMD Ryzen 7
 Lenovo,LOQ Gaming Series,169999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,AMD Ryzen 7
@@ -207,7 +207,7 @@ ASUS,TUF Series,172999.0,16.0,512.0, RTX4050 6GB ,i7
 Lenovo,Legion Series,173500.0,16.0,512.0, NVIDIA GeForce RTX 4050 ,Intel Core i7
 MSI,Cyborg Series,174000.0,16.0,512.0, Dedicated NVIDIA GeForce RTX 4060 8GB ,Intel Core i7
 Hewlett-Packard (HP),Omen,174999.0,16.0,512.0, NVIDIA RTX 3070 ,Intel Core i7
-MSI,Summit Series,174999.0,16.0,512.0,None,Intel Core i7
+MSI,Summit Series,174999.0,16.0,512.0,No,Intel Core i7
 Acer,Predator Series,174999.0,16.0,512.0, NVIDIA GeForce RTX 4050 6GB ,Intel Core i7
 Hewlett-Packard (HP),Omen,174999.0,16.0,512.0, NVIDIA RTX 4060 8GB ,Intel Core i9
 Lenovo,Legion Series,174999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i7
@@ -221,84 +221,84 @@ ASUS,ZenBook Series,185000.0,16.0,512.0, Intel Arc ,Intel Core i7
 Lenovo,LOQ Series,185999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i7
 Dell,Gaming Series,187999.0,16.0,512.0, RTX 4060 8GB ,Intel Core i9
 Acer,Predator Triton Series,188999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i7
-Apple,MacBook (M3 Air Chip),189999.0,16.0,512.0,None,Intel Core i7
-Apple,MacBook Air,189999.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook (M3 Air Chip),189999.0,16.0,512.0,No,Intel Core i7
+Apple,MacBook Air,189999.0,16.0,512.0,No,Intel Core i7
 MSI,Cyborg Series,190000.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB GDDR6 ,Intel Core i7
-ASUS,ZENBOOK,191000.0,16.0,512.0,None,Intel Core i7
+ASUS,ZENBOOK,191000.0,16.0,512.0,No,Intel Core i7
 ASUS,ZenBook Series,191999.0,16.0,512.0, Intel Arc ,Intel Core i7
 Acer,Predator Series,191999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i9
 Lenovo,Legion Series,195000.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB GDDR6 ,Intel Core i7
-ASUS,ZenBook Series,195999.0,16.0,512.0,None,Intel Core i7
-ASUS,VivoBook Series,199999.0,16.0,512.0,None,Intel Core i7
-Apple,MacBook Air,199999.0,16.0,512.0,None,Intel Core i7
+ASUS,ZenBook Series,195999.0,16.0,512.0,No,Intel Core i7
+ASUS,VivoBook Series,199999.0,16.0,512.0,No,Intel Core i7
+Apple,MacBook Air,199999.0,16.0,512.0,No,Intel Core i7
 ASUS,ROG ZEPHYRUS GAMING (GA503RM),200000.0,16.0,512.0, RTX 3060 ,AMD Ryzen 9
 DELL,Alienware x14,200000.0,16.0,512.0, NVIDIA RTX 3050 ,Intel Core i7
 ASUS,VivoBook Series,202999.0,16.0,512.0, Intel Arc ,Intel Core i7
 Acer,Predator Series,204999.0,32.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i9
-Apple,MacBook Air,206999.0,16.0,512.0,None,Intel Core i7
-Apple,MacBook Air,209999.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook Air,206999.0,16.0,512.0,No,Intel Core i7
+Apple,MacBook Air,209999.0,16.0,512.0,No,Intel Core i7
 MSI,Delta,210000.0,16.0,512.0, AMD RX6700M ,AMD Ryzen 7
-Apple,MacBook Air,214999.0,16.0,256.0,None,Intel Core i7
+Apple,MacBook Air,214999.0,16.0,256.0,No,Intel Core i7
 ASUS,ROG Strix Series,214999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i7
 ASUS,TUF Series,215000.0,16.0,512.0, RTX4060 8GB ,i7
-Apple,MacBook Pro,216999.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook Pro,216999.0,16.0,512.0,No,Intel Core i7
 Lenovo,Legion Series,219999.0,16.0,512.0, NVIDIA GeForce RTX 4070 8GB ,Intel Core i7
 ASUS,ROG Strix Series,220000.0,16.0,512.0, NVIDIA RTX 4050 ,Intel Core i7
-Apple,MacBook Air,220000.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook Air,220000.0,16.0,512.0,No,Intel Core i7
 Dell,XPS Series,222599.0,16.0,512.0, Intel Arc ,Intel Core i7
 Dell,XPS,224999.0,16.0,512.0, Intel Arc ,Intel Core i7
 Lenovo,Yoga Series,230000.0,16.0,512.0, Intel Arc ,Intel Core i7
 Lenovo,IdeaPad Series,234999.0,32.0,512.0, RTX 4050 6GB ,Intel Core i7
 Lenovo,Legion Series,235000.0,16.0,512.0, NVIDIA GeForce RTX 4070 8GB ,Intel Core i7
 DELL,Alienware M15 R7,235000.0,16.0,512.0, NVIDIA RTX 3060 ,Intel Core i7
-Apple,MacBook Air ,237000.0,16.0,512.0,None,Intel Core i7
-Apple,M4 Series,239999.0,16.0,512.0,None,Intel Core i7
-Apple,MacBook Air,239999.0,16.0,512.0,None,Intel Core i7
-Apple,MacBook Air,239999.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook Air ,237000.0,16.0,512.0,No,Intel Core i7
+Apple,M4 Series,239999.0,16.0,512.0,No,Intel Core i7
+Apple,MacBook Air,239999.0,16.0,512.0,No,Intel Core i7
+Apple,MacBook Air,239999.0,16.0,512.0,No,Intel Core i7
 ASUS,ZenBook Series,244999.0,32.0,512.0, 890M ,AMD Ryzen 
 Acer,Predator Series,245999.0,16.0,512.0, NVIDIA GeForce RTX 4070 8GB ,Intel Core i9
-HP,Spectre Series,249999.0,32.0,512.0,None,Intel Core i7
+HP,Spectre Series,249999.0,32.0,512.0,No,Intel Core i7
 Lenovo,Legion Series,254999.0,32.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i9
 MSI,GP66,259000.0,16.0,512.0, NVIDIA RTX 3060 ,Intel Core i7
 ASUS,ROG Strix Series,264999.0,16.0,512.0, RTX 4060 8GB ,Intel Core i9
-Apple,MacBook Pro,266999.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook Pro,266999.0,16.0,512.0,No,Intel Core i7
 ASUS,ROG Zephyrus Series,269999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,AMD Ryzen 9
 ASUS,ROG Strix Series,269999.0,16.0,512.0, NVIDIA RTX 3070Ti 8GB ,Intel Core i9
-Apple,MacBook Pro Series (M3 Chip),270000.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook Pro Series (M3 Chip),270000.0,16.0,512.0,No,Intel Core i7
 Lenovo,Legion Series,276999.0,16.0,512.0, NVIDIA GeForce RTX 4070 8GB ,Intel Core i9
 DELL,XPS,279000.0,16.0,512.0, Intel Iris Xe ,Intel Core i7
 Dell,Alienware Series,279999.0,32.0,512.0, NVIDIA GeForce RTX 4070 8GB ,Intel Core i7
-Apple,MacBook Air,279999.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook Air,279999.0,16.0,512.0,No,Intel Core i7
 Lenovo,Legion Series,279999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i9
 Dell,Alienware Series,280000.0,16.0,512.0, NVIDIA GeForce RTX 4070 8GB GDDR6 ,Intel Core i7
 MSI,Creator,284000.0,16.0,512.0, NVIDIA RTX 3060 ,Intel Core i7
 Dell,XPS Series,284999.0,16.0,512.0, Intel Arc ,Intel Core i7
 DELL,Alienware,285000.0,32.0,512.0, NVIDIA RTX 3070 ,Intel Core i7
-DELL,XPS,288000.0,16.0,512.0,None,Intel Core i7
-Apple,MacBook Pro,294999.0,16.0,512.0,None,Intel Core i7
-Apple,MacBook Pro (M3 Pro Chip),294999.0,16.0,512.0,None,Intel Core i7
+DELL,XPS,288000.0,16.0,512.0,No,Intel Core i7
+Apple,MacBook Pro,294999.0,16.0,512.0,No,Intel Core i7
+Apple,MacBook Pro (M3 Pro Chip),294999.0,16.0,512.0,No,Intel Core i7
 ASUS,ZenBook Duo Series,299999.0,32.0,512.0, Intel Arc ,Intel Core i7
 ASUS,Creator Series,302999.0,24.0,512.0, NVIDIA GeForce RTX 4050 6GB ,AMD Ryzen 
 Lenovo,Legion Series,319999.0,32.0,512.0, NVIDIA GeForce RTX 4070 8GB ,Intel Core i9
-Apple,MacBook Pro,327999.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook Pro,327999.0,16.0,512.0,No,Intel Core i7
 ASUS,ROG Strix Series,330999.0,16.0,512.0, NVIDIA GeForce RTX 4070 8GB ,Intel Core i9
-Apple,MacBook Pro,334999.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook Pro,334999.0,16.0,512.0,No,Intel Core i7
 ASUS,Zephyrus Series,339999.0,16.0,512.0, RTX 4060 8GB ,AMD Ryzen 
 ASUS,ROG Strix Series,339999.0,32.0,512.0, RTX 4070 8GB ,Intel Core i9
 Acer,Predator Series,347999.0,16.0,512.0, NVIDIA GeForce RTX 4080 8GB ,Intel Core i9
-Acer,Aspire Series,77999.0,16.0,512.0,None,AMD Ryzen 5
+Acer,Aspire Series,77999.0,16.0,512.0,No,AMD Ryzen 5
 Hewlett-Packard (HP),Victus,89399.0,16.0,512.0, NVIDIA RTX 3050 ,Intel Core i5
 Acer,Swift Series,95999.0,16.0,512.0, Intel Iris Xe ,Intel Core i5
 Lenovo,LOQ Series,129000.0,16.0,512.0, NVIDIA GeForce RTX 4050 6GB ,AMD Ryzen 7
-Apple,MacBook Air,174999.0,16.0,256.0,None,Intel Core i7
+Apple,MacBook Air,174999.0,16.0,256.0,No,Intel Core i7
 Lenovo,Legion Series,186999.0,16.0,512.0, NVIDIA GeForce RTX 4060 8GB ,Intel Core i7
-Apple,MacBook Pro (M3 Pro Chip),380000.0,16.0,512.0,None,Intel Core i7
-Apple,MacBook Pro,389000.0,16.0,512.0,None,Intel Core i7
-DELL,XPS,395000.0,32.0,512.0,None,Intel Core i7
+Apple,MacBook Pro (M3 Pro Chip),380000.0,16.0,512.0,No,Intel Core i7
+Apple,MacBook Pro,389000.0,16.0,512.0,No,Intel Core i7
+DELL,XPS,395000.0,32.0,512.0,No,Intel Core i7
 Lenovo,Legion Series,414999.0,32.0,512.0, NVIDIA GeForce RTX 4080 12GB ,Intel Core i9
 Dell,XPS Series,440999.0,32.0,512.0, RTX 4050 6GB ,Intel Core i7
 ASUS,ZENBOOK,535000.0,16.0,512.0, Intel Iris Xe ,Intel Core i7
-Apple,MacBook Pro,545000.0,16.0,512.0,None,Intel Core i7
+Apple,MacBook Pro,545000.0,16.0,512.0,No,Intel Core i7
 Lenovo,Legion Series,569999.0,16.0,512.0, NVIDIA GeForce RTX 4090 16GB ,Intel Core i9
 ASUS,ROG Strix Series,605000.0,32.0,512.0, NVIDIA GeForce RTX 4090 16GB ,Intel Core i9
 Acer,Nitro Series,88999.0,16.0,512.0, NVIDIA GeForce RTX 2050 4GB ,AMD Ryzen 5
