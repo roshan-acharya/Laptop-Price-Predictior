@@ -93,6 +93,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 👨‍💻 Author
-Made with ❤️ by [Roshan Acharya]
+Made with ❤️ by Roshan Acharya
 
 Aspiring Machine Learning Developer from Nepal
