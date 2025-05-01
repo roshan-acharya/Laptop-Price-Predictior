@@ -68,7 +68,7 @@ This project aims to help users estimate the price of a laptop based on its spec
 
 ## 🌐 Live Demo
 
-👉 **[Click here to try the app on Streamlit Cloud](#)**  
+👉 **[Click here to try the app on Streamlit Cloud](https://laptop-price-predictior-np.streamlit.app/)**  
 
 
 ---
@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
-
+```
 👨‍💻 Author
 Made with ❤️ by [Roshan Acharya]
 Aspiring Machine Learning Developer from Nepal 🇳🇵
