@@ -4,7 +4,7 @@ import pandas as pd
 
 #create streamlit app with dunction 
 def Price(input_data):
-    with open('../Model/model.pkl', 'rb') as file:
+    with open('model.pkl', 'rb') as file:
         model = pickle.load(file)
     #load data
     input_df= pd.DataFrame(data=[input_data], columns=['Brand', 'Series', 'Processor', 'Ram', 'Storage', 'Graphics'])
