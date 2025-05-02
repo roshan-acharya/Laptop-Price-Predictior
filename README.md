@@ -90,6 +90,7 @@ cd laptop-price-predictor-np
 pip install -r requirements.txt
 
 # Run the Streamlit app
+cd App
 streamlit run app.py
 ```
 ### 👨‍💻 Author
