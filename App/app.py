@@ -4,7 +4,7 @@ import pandas as pd
 from pathlib import Path
 import pickle
 
-model_path = Path.cwd() /'App'/"model.pkl"
+model_path = Path.cwd() /'Model'/"model.pkl"
 
 #create streamlit app with dunction 
 def Price(input_data):
