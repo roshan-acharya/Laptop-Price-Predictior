@@ -1,10 +1,14 @@
 import pickle
 import streamlit as st
 import pandas as pd
+from pathlib import Path
+import pickle
+
+model_path = Path.cwd() / "model.pkl"
 
 #create streamlit app with dunction 
 def Price(input_data):
-    with open('model.pkl', 'rb') as file:
+    with open(model_path, 'rb') as file:
         model = pickle.load(file)
     #load data
     input_df= pd.DataFrame(data=[input_data], columns=['Brand', 'Series', 'Processor', 'Ram', 'Storage', 'Graphics'])
